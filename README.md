@@ -1,3 +1,3 @@
-# training
+# Training
 
-Practice cleaning and manipulating a dirty dataset.
+Practice with Machine Learning and Data Analysis
